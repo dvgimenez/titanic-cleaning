@@ -1,0 +1,3 @@
+
+* train_titanic.csv: Dataframe d'entrenament original (sense cap modificació).
+* test_titanic.csv: Dataframe de test original (sense cap modificació).
