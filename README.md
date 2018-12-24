@@ -16,7 +16,7 @@ La informació serà extreta del web https://www.kaggle.com/c/titanic
 Aquesta activitat s'ha realitzat de forma individual per l'alumne **David Vila Giménez** (dvgimenez).
 
 ## Codi
-S'entregarà un notebook realitzat per Python amb tots els apartats de la pràctica: dvgimenez_PRAC2
+S'entregarà un notebook realitzat per Python amb tots els apartats de la pràctica: dvgimenez_PRAC2. També s'ha exportat en un arxiu html.
   
 ## Recursos
 1. Gutiérrez, T. (2017). "Limpieza y validación de datos"
