@@ -1,0 +1,2 @@
+* data_clean: dataframe train_titanic.csv netejat.
+* resultat: Predicció sobre el dataframe test_titanic.csv
